@@ -1,0 +1,9 @@
+import defca
+
+# 1. Print the result of adding 15 and 8
+result_add = defca.add(15, 8)
+print("15 + 8 =", result_add)
+
+# 2. Print the result of subtracting 10 from 25
+result_subtract = defca.subtract(25, 10)
+print("25 - 10 =", result_subtract)
